@@ -7,7 +7,6 @@ public class HelloWorld {
 		System.out.println("aaaaa");
 		System.out.println("zzzzz");
 		System.out.println("fffff");
-		System.out.println("ababa");
 
 	}
 
